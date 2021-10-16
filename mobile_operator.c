@@ -1,13 +1,3 @@
-/*
-###########################################
-Course Code & Section: CSE104 & 02
-Full Name: Yasin Mustafiz
-Student ID: 182011072
-Email:yasin.mustafiz.bba@ulab.edu.bd
-Submission Date: 22-May-2021
-###########################################
-*/
-
 #include <stdio.h>
 
 int show_Main_Menu();
